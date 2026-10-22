@@ -1,0 +1,10 @@
+{
+  "name": "tutee-warmup",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "2026 정보교원 AI 실전 연수 Track2 DAY2 도입 활동 - 새 교생 튜티가 왔습니다",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
